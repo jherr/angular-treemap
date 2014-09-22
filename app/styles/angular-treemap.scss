@@ -1,0 +1,36 @@
+.angular-treemap {
+	text {
+		pointer-events: none;
+	}
+
+	.grandparent text {
+		font-weight: bold;
+	}
+
+	rect {
+		stroke: #fff;
+	}
+
+	rect.parent,
+	.grandparent rect {
+		stroke-width: 2px;
+	}
+
+	.grandparent rect {
+		fill: #fff;
+	}
+
+	.children rect.parent,
+	.grandparent rect {
+		cursor: pointer;
+	}
+
+	rect.parent {
+		pointer-events: all;
+	}
+
+	.children:hover rect.child,
+	.grandparent:hover rect {
+		fill: #aaa;
+	}
+}

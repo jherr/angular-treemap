@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jack.herrington/projects/angular-treemap",
+            "folder_exclude_patterns": [".sass-cache","node_modules",".tmp"],
+            "file_exclude_patterns": [".*","karma*","*.ico","robots.txt","component.json","package.json","404.html"]
+		}
+	]
+}

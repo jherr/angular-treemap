@@ -1,0 +1,599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"topic",
+				"topic_map_dialog"
+			],
+			[
+				"conc",
+				"concepts"
+			],
+			[
+				"commun",
+				"community"
+			],
+			[
+				"comm",
+				"community"
+			],
+			[
+				"PAG",
+				"HUMAN_PAGE_VIEWS"
+			],
+			[
+				"communit",
+				"community"
+			],
+			[
+				"com",
+				"communities"
+			],
+			[
+				"find_comm",
+				"find_by_community_code"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"customer",
+				"customerId"
+			],
+			[
+				"update_",
+				"update_customer_list"
+			],
+			[
+				"upda",
+				"update_customer_list"
+			],
+			[
+				"cust",
+				"customerId"
+			],
+			[
+				"icon",
+				"icon-remove-sign"
+			],
+			[
+				"ter",
+				"term-active"
+			],
+			[
+				"ven",
+				"vendor_series"
+			],
+			[
+				"find_by_b",
+				"find_by_board_uid"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"find_by",
+				"find_by_name"
+			],
+			[
+				"neg",
+				"negative"
+			],
+			[
+				"get",
+				"get_data"
+			],
+			[
+				"min",
+				"min_date"
+			],
+			[
+				"po",
+				"posted_date"
+			],
+			[
+				"find_all_by",
+				"find_all_by_topic_uid"
+			],
+			[
+				"ex",
+				"ext_end"
+			],
+			[
+				"ava",
+				"avatar_url"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"ne",
+				"neutral"
+			],
+			[
+				"maximu",
+				"maximum"
+			],
+			[
+				"sen",
+				"sentiment"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 68.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"coffe",
+				"JS2Coffee: Convert & Make New File"
+			],
+			[
+				"Package Control",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"coff",
+				"Coffee: Compile File"
+			],
+			[
+				"cof",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"set syn cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jack.herrington/projects/angular-treemap/app/styles/angular-treemap.scss",
+		"/Users/jack.herrington/projects/angular-treemap/app/scripts/angular-treemap.js.coffee",
+		"/Users/jack.herrington/projects/angular-treemap/app/styles/main.scss",
+		"/Users/jack.herrington/projects/angular-treemap/app/scripts/app.js.coffee",
+		"/Users/jack.herrington/projects/angular-treemap/app/index.html",
+		"/Users/jack.herrington/projects/angular-treemap/LICENSE.txt",
+		"/Users/jack.herrington/projects/angular-treemap/app/scripts/angular-treemap.js.coffee",
+		"/Users/jack.herrington/projects/angular-treemap/README.md",
+		"/Users/jack.herrington/projects/angular-treemap/Gruntfile.js",
+		"/Users/jack.herrington/projects/angular-treemap/gen.rb",
+		"/Users/jack.herrington/projects/angular-treemap/app/flare_with_color.json",
+		"/Users/jack.herrington/projects/angular-treemap/app/flare.json",
+		"/Users/jack.herrington/projects/angular-treemap/app/styles/angular-treemap.scss",
+		"/Users/jack.herrington/projects/angular-treemap/angular-treemap.sublime-project",
+		"/Users/jack.herrington/projects/angular-treemap/app/scripts/controllers/main.js.coffee",
+		"/Users/jack.herrington/projects/angular-treemap/app/views/main.html",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/stylesheets/application.css.scss",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/stylesheets/iconic_stroke.css",
+		"/Users/jack.herrington/labs/active/digdug/app/views/home/experts_pg.html.haml",
+		"/Users/jack.herrington/labs/active/digdug/app/controllers/home_controller.rb",
+		"/Users/jack.herrington/labs/active/digdug/db/migrate/20130530155505_topic_maps.rb",
+		"/Users/jack.herrington/labs/active/digdug/config/routes.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/lib/topic_map_builder.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/models/concept.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/models/topic_map.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/lib/topic_modeler.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/lib/topic_modeler_results.rb",
+		"/Users/jack.herrington/projects/thumper/app/assets/stylesheets/application.css.scss",
+		"/Users/jack.herrington/projects/thumper/app/assets/javascripts/thumper.js.coffee",
+		"/Users/jack.herrington/projects/thumper/config/routes.rb",
+		"/Users/jack.herrington/projects/thumper/public/templates/top10s.html",
+		"/Users/jack.herrington/projects/thumper/app/controllers/home_controller.rb",
+		"/Users/jack.herrington/projects/thumper/app/views/home/single.html.haml",
+		"/Users/jack.herrington/projects/thumper/app/assets/stylesheets/bootstrap-tagmanager.css",
+		"/Users/jack.herrington/projects/thumper/public/templates/accounts.html",
+		"/Users/jack.herrington/projects/thumper/app/models/account.rb",
+		"/Users/jack.herrington/projects/thumper/app/models/community.rb",
+		"/Users/jack.herrington/projects/thumper/app/assets/javascripts/angular-treemap.js.coffee",
+		"/Users/jack.herrington/projects/thumper/app/assets/javascripts/home.js.coffee",
+		"/Users/jack.herrington/projects/thumper/public/templates/tree.html",
+		"/Users/jack.herrington/projects/thumper/public/templates/map.html",
+		"/Users/jack.herrington/projects/thumper/data/addresses.json",
+		"/Users/jack.herrington/projects/thumper/app/models/case_item.rb",
+		"/Users/jack.herrington/projects/thumper/app/assets/javascripts/chi_graph.js.coffee",
+		"/Users/jack.herrington/projects/thumper/notes/TODO.txt",
+		"/Users/jack.herrington/projects/thumper/app/assets/stylesheets/jquery-ui-1.10.3.custom.css",
+		"/Users/jack.herrington/projects/thumper/app/models/wave.rb",
+		"/Users/jack.herrington/projects/thumper/app/assets/stylesheets/home.css.scss",
+		"/Users/jack.herrington/projects/thumper/Notes.txt",
+		"/Users/jack.herrington/projects/thumper/TODO.txt",
+		"/Users/jack.herrington/projects/thumper/db/migrate/20130524135555_case_summaries.rb",
+		"/Users/jack.herrington/projects/thumper/db/migrate/20130524155642_case_add_sfid.rb",
+		"/Users/jack.herrington/projects/thumper/thumper.sublime-project",
+		"/Users/jack.herrington/projects/thumper/Gemfile",
+		"/Users/jack.herrington/labs/active/paperboy/config/routes.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/controllers/jobs_controller.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/assets/javascripts/paperboy.js.coffee",
+		"/Users/jack.herrington/labs/active/paperboy/app/assets/stylesheets/application.css.scss",
+		"/Users/jack.herrington/labs/active/paperboy/app/controllers/api/v1/terms_controller.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/views/home/index.html.haml",
+		"/Users/jack.herrington/labs/active/paperboy/app/controllers/api/v1/documents_controller.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/assets/javascripts/application.js",
+		"/Users/jack.herrington/labs/active/paperboy/app/views/layouts/application.html.haml",
+		"/Users/jack.herrington/labs/active/paperboy/app/assets/javascripts/customers.js.coffee",
+		"/Users/jack.herrington/labs/active/paperboy/app/controllers/api/v1/customers_controller.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/controllers/api/v1/categories_controller.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/controllers/home_controller.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/controllers/api/jobs_controller.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/controllers/api/v1/customers/terms_controller.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/controllers/customers_controller.rb",
+		"/Users/jack.herrington/labs/active/paperboy/Gemfile",
+		"/Users/jack.herrington/labs/active/paperboy/app/models/customer.rb",
+		"/Users/jack.herrington/labs/active/paperboy/db/migrate/20130410195617_initial.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/models/term.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/models/document.rb",
+		"/Users/jack.herrington/labs/active/paperboy/db/seeds.rb",
+		"/Users/jack.herrington/labs/active/paperboy/app/models/category.rb",
+		"/Users/jack.herrington/labs/active/paperboy/paperboy.sublime-project",
+		"/Users/jack.herrington/labs/active/paperboy/app/models/client.rb",
+		"/Users/jack.herrington/labs/active/paperboy/config/database.yml",
+		"/Users/jack.herrington/Desktop/findDependency.py",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/javascripts/widgets.js.coffee",
+		"/Users/jack.herrington/projects/foldspace/get_follower_counts.rb",
+		"/Users/jack.herrington/projects/foldspace/get_followers.rb",
+		"/Users/jack.herrington/projects/foldspace/build_sheet.rb",
+		"/Users/jack.herrington/projects/foldspace/foldspace.sublime-project",
+		"/Users/jack.herrington/projects/product_timeline/timeliner.rb",
+		"/Users/jack.herrington/projects/product_timeline/timeline/timeline.html",
+		"/Users/jack.herrington/projects/product_timeline/timeline.json",
+		"/Users/jack.herrington/projects/product_timeline/timeline.html",
+		"/Users/jack.herrington/projects/sentimentastic/sentimentastic_bulk.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/javascripts/mspacman_widget.js.coffee",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/javascripts/inplaceseph.js.coffee",
+		"/Users/jack.herrington/projects/dw1/mkdata.rb",
+		"/Users/jack.herrington/projects/dw1/rdposts.rb",
+		"/Users/jack.herrington/projects/dw1/build_r_data.rb",
+		"/Users/jack.herrington/projects/dw1/registrations.sql",
+		"/Users/jack.herrington/projects/dw1/TODO.txt",
+		"/Users/jack.herrington/projects/dw1/big_users.sql",
+		"/Users/jack.herrington/projects/dw1/users.sql",
+		"/Users/jack.herrington/projects/lsw/app/lib/community_tracer.rb",
+		"/Users/jack.herrington/projects/dw1/messages.sql",
+		"/Users/jack.herrington/projects/lsw/config/database.yml",
+		"/Users/jack.herrington/projects/lsw/Gemfile",
+		"/Users/jack.herrington/projects/lsw/app/models/response.rb",
+		"/Users/jack.herrington/projects/lsw/app/models/request.rb",
+		"/Users/jack.herrington/projects/lsw/config/mongoid.yml",
+		"/Users/jack.herrington/labs/active/digdug/app/models/customer.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/models/user.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/lib/date_decimator.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/javascripts/investigator.js.coffee",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/javascripts/investigator_model.js.coffee",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/javascripts/investigator_two.js.coffee",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/stylesheets/mspacman_widget.css.scss",
+		"/Users/jack.herrington/labs/active/digdug/app/assets/javascripts/mspacmac_widget.js.coffee",
+		"/Users/jack.herrington/labs/active/digdug/app/models/post.rb",
+		"/Users/jack.herrington/labs/active/digdug/db/migrate/20130131172707_create_posts.rb",
+		"/Users/jack.herrington/labs/active/digdug/app/lib/daily_reports.rb",
+		"/Users/jack.herrington/labs/active/digdug/digdug.sublime-project",
+		"/Users/jack.herrington/projects/feyd/app/assets/javascripts/router.js.coffee",
+		"/Users/jack.herrington/projects/feyd/config/routes.rb",
+		"/Users/jack.herrington/projects/feyd/app/controllers/api_controller.rb",
+		"/Users/jack.herrington/projects/feyd/app/assets/javascripts/templates/application.handlebars",
+		"/Users/jack.herrington/projects/feyd/app/assets/javascripts/application.js",
+		"/Users/jack.herrington/projects/feyd/app/assets/javascripts/routes/application_route.js.coffee",
+		"/Users/jack.herrington/projects/feyd/app/assets/javascripts/views/categories_view.js.coffee",
+		"/Users/jack.herrington/projects/feyd/app/assets/javascripts/templates/categories.handlebars",
+		"/Users/jack.herrington/projects/feyd/app/lib/render_contest.rb"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"angular-treemap",
+			"colorlow",
+			"colorLow",
+			"detail",
+			"$scope.name",
+			"fill-op",
+			"tree",
+			"parent",
+			"$scope.y",
+			"$scope.x",
+			"$scope.formatNumber",
+			"transitioning",
+			"$scope.svg",
+			"$scope.grandparent",
+			"$scope.ratio",
+			"$scope.margin",
+			"width",
+			"$scope.height",
+			"$scope.width",
+			"$scope.host",
+			"$scope.treemap",
+			"color",
+			"$scope.color",
+			"min_color",
+			"console.",
+			"min_colo",
+			"min_colr",
+			"find_color_range",
+			"min_color",
+			"root",
+			"@",
+			"preserve_dirs",
+			"css",
+			"compass",
+			"scss",
+			"coffee",
+			"scripts",
+			"main",
+			"   ",
+			"  ",
+			"port",
+			"@.",
+			"trend",
+			"data",
+			"ConceptTrendGraph",
+			"result",
+			" =",
+			"search.",
+			"graph_concept",
+			"topicmap_user",
+			"@ConceptS",
+			"@Concepts",
+			"@ConceptS",
+			"@Concepts",
+			"@experts",
+			"@Experts",
+			"@ExpertS",
+			"@Experts",
+			"expert_concept",
+			"concepts",
+			"expert_concept",
+			"expert.",
+			"avatar",
+			"url(",
+			"#ccc",
+			"1px",
+			"$scope",
+			"customer_id: customer_id",
+			"customer",
+			"expert",
+			"EXPERT",
+			"expert",
+			",",
+			".on",
+			"prefill",
+			"myTag",
+			"tag_dialog_start",
+			"edit_start",
+			"acceptCommunity",
+			"acceptAccount",
+			"account",
+			"edit_",
+			" class=\"span1\"",
+			"account",
+			"acct",
+			"$scope.tags",
+			"tags",
+			"$scope.tags",
+			"region",
+			"children",
+			"selected_metric_value",
+			"chidlren",
+			"Servigis",
+			"shown",
+			"nCircle",
+			"Rozelle",
+			"url(",
+			"ui-bgsorrock6026",
+			"ui-bg",
+			"url(images/ui-bg_highlight-soft_100_eeeeee_1x100.png) ",
+			"filterAcco",
+			"sortgin",
+			"'data-dismiss'=>'modal',",
+			"case_info_start",
+			"case_info_dialog",
+			"summary",
+			"cases",
+			"get_cases",
+			".waves",
+			"waves",
+			"data",
+			".date",
+			"first",
+			"SignalValue::",
+			"afterRender",
+			"graph",
+			"example",
+			"animate",
+			"person",
+			"bcuttoff",
+			"region",
+			".change",
+			"event",
+			" and $scope.started",
+			"accounts_url",
+			"paperboy_app",
+			"customerId",
+			"setupCustomer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$scope.state.y",
+			"$scope.state.x",
+			"$scope.state.formatNumber",
+			"$scope.state.transitioning",
+			"$scope.state.svg",
+			"$scope.state.height",
+			"$scope.state.width",
+			"",
+			",",
+			"	",
+			"'",
+			"	",
+			"'",
+			"	",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"project": "treemap.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tess",
+				"app/assets/javascripts/test.js.coffee"
+			],
+			[
+				"ring",
+				"app/assets/javascripts/ring.js.coffee"
+			],
+			[
+				"rin",
+				"app/assets/javascripts/ring.js.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
